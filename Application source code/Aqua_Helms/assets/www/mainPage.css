@@ -1,0 +1,141 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("files/resources/lib/jquerymobile/1.4.4/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilebutton_9 */
+#mainPage_mobilebutton_9 {
+
+}
+.ui-btn.mainPage_mobilebutton_9 {
+
+}
+/* mobilecontainer */
+.ui-content.mainPage_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobileworkarea_7*/
+.mainPage_mobileworkarea_7 {
+	background-color: transparent;
+	padding: 0px;
+}
+/* spacer_14 */
+.mainPage_spacer_14 {
+	width: 260px; height: 8px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobileimage_12 */
+.mainPage_mobileimage_12 {
+	margin: 4px 0px 4px 0px;
+	width: 100%; height: 95px;
+	display: block;
+}
+/* spacer_13 */
+.mainPage_spacer_13 {
+	width: 260px; height: 61px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilebutton_10 */
+#mainPage_mobilebutton_10 {
+
+}
+.ui-btn.mainPage_mobilebutton_10 {
+	margin: 4px 5px 4px 5px;
+}
+/* spacer_15 */
+.mainPage_spacer_15 {
+	width: 260px; height: 39px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilebutton_11 */
+#mainPage_mobilebutton_11 {
+
+}
+.ui-btn.mainPage_mobilebutton_11 {
+	margin: 4px 5px 4px 5px;
+}
+/* spacer_16 */
+.mainPage_spacer_16 {
+	width: 254px; height: 95px;
+	margin: 4px 0px 4px 0px;
+}
+/* spacer_11 */
+.mainPage_spacer_11 {
+	width: 260px; height: 34px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobileworkarea_10*/
+.mainPage_mobileworkarea_10 {
+	background-color: transparent;
+	padding: 0px;
+}
+/* spacer_17 */
+.mainPage_spacer_17 {
+	width: 260px; height: 61px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilecarousel_18 */
+.mainPage_mobilecarousel_18 {
+	margin: 0px 0px 0px 0px!important;
+}
+.mainPage_mobilecarousel_18 ul {
+	margin: 0px 0px 0px 0px!important;
+}
+.mainPage_mobilecarousel_18 .ui-carousel-box {
+	min-height: 50px;
+}
+/* mobilecarouselitem_19 */
+.mainPage_mobilecarouselitem_19 .ui-carousel-box {
+	padding: 0px 0px 0px 0px;
+}
+/* mobilecarouselitem_20 */
+.mainPage_mobilecarouselitem_20 .ui-carousel-box {
+	padding: 0px 0px 0px 0px;
+}
+/* mobilecarouselitem_21 */
+.mainPage_mobilecarouselitem_21 .ui-carousel-box {
+	padding: 0px 0px 0px 0px;
+}
+/* mobilefooter */
+.mainPage_mobilefooter {
+	min-height:38px;
+}
+/* panel_2 */
+.mainPage_panel_2 .ui-panel-inner {
+	padding: 15px 15px 15px 15px;
+}
+.mainPage_panel_2:focus {
+	outline: 0;
+}
+/* mobileimage_3 */
+.mainPage_mobileimage_3 {
+	margin: 4px 0px 4px 0px;
+	width: 240px; height: 170px;
+	display: block;
+}
+/* spacer_4 */
+.mainPage_spacer_4 {
+	width: 241px; height: 22px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilebutton_5 */
+#mainPage_mobilebutton_5 {
+
+}
+.ui-btn.mainPage_mobilebutton_5 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_6 */
+#mainPage_mobilebutton_6 {
+
+}
+.ui-btn.mainPage_mobilebutton_6 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_8 */
+#mainPage_mobilebutton_8 {
+
+}
+.ui-btn.mainPage_mobilebutton_8 {
+	margin: 4px 5px 4px 5px;
+}

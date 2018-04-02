@@ -1,0 +1,603 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("files/resources/lib/jquerymobile/1.4.4/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilebutton_9 */
+#CAN_Details_mobilebutton_9 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_9 {
+
+}
+/* mobilecontainer */
+.ui-content.CAN_Details_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobileworkarea_7*/
+.CAN_Details_mobileworkarea_7 {
+	background-color: transparent;
+	padding: 0px;
+}
+/* mobilecollapsibleset_75 */
+.CAN_Details_mobilecollapsibleset_75 {
+	margin: 8px 5px 8px 5px;
+}
+/* mobilecollapsblock_76 */
+.CAN_Details_mobilecollapsblock_76 {
+
+}
+.CAN_Details_mobilecollapsblock_76 .ui-collapsible-content {
+	padding: 10px 15px 10px 15px;
+}
+/* mobilebutton_91 */
+#CAN_Details_mobilebutton_91 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_91 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_92 */
+#CAN_Details_mobilebutton_92 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_92 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_93 */
+#CAN_Details_mobilebutton_93 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_93 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_90 */
+#CAN_Details_mobilebutton_90 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_90 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_89 */
+#CAN_Details_mobilebutton_89 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_89 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_96 */
+#CAN_Details_mobilebutton_96 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_96 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_88 */
+#CAN_Details_mobilebutton_88 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_88 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilelist_10 */
+.ui-page .CAN_Details_mobilelist_10 {
+	margin: 4px 0px 0px 0px;
+}
+/* mobilelistitem_11 */
+.ui-mobile-viewport ul[data-role="listview"] li.CAN_Details_mobilelistitem_11 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.CAN_Details_mobilelistitem_11 .ui-li-static-container {
+	padding: 0px 0px 4px 0px;
+	padding-right: 10px;
+	padding-left: 0px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.CAN_Details_mobilelistitem_11.ui-icon-none .ui-li-static-container {
+	padding-right: 0px; /* consider nothing */
+}
+/* mobilegrid_19 */
+.CAN_Details_mobilegrid_19 {
+	height: auto;
+	width:100%;
+	margin: 4px 0px 4px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.CAN_Details_mobilegrid_19_wrapper {
+
+}
+.CAN_Details_mobilegrid_19 > tr > td {
+	vertical-align: top;
+}
+.CAN_Details_mobilegrid_19_row_0, .CAN_Details_mobilegrid_19_row_0 > td {
+	height: 30px
+}
+.CAN_Details_mobilegrid_19_row_1, .CAN_Details_mobilegrid_19_row_1 > td {
+	height: 30px
+}
+.CAN_Details_mobilegrid_19_row_2, .CAN_Details_mobilegrid_19_row_2 > td {
+	height: 30px
+}
+.CAN_Details_mobilegrid_19_row_3, .CAN_Details_mobilegrid_19_row_3 > td {
+	height: 30px
+}
+.CAN_Details_mobilegrid_19_row_4, .CAN_Details_mobilegrid_19_row_4 > td {
+	height: 30px
+}
+.CAN_Details_mobilegrid_19_row_5, .CAN_Details_mobilegrid_19_row_5 > td {
+	height: 30px
+}
+.CAN_Details_mobilegrid_19_row_6, .CAN_Details_mobilegrid_19_row_6 > td {
+	height: 30px
+}
+.CAN_Details_mobilegrid_19_row_7, .CAN_Details_mobilegrid_19_row_7 > td {
+	height: 30px
+}
+.CAN_Details_mobilegrid_19_row_8, .CAN_Details_mobilegrid_19_row_8 > td {
+	height: 30px
+}
+.CAN_Details_mobilegrid_19_row_9, .CAN_Details_mobilegrid_19_row_9 > td {
+	height: 30px
+}
+.CAN_Details_mobilegrid_19_row_10, .CAN_Details_mobilegrid_19_row_10 > td {
+	height: 30px
+}
+/* mobilegridcell_20 */
+.CAN_Details_mobilegridcell_20 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_20 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_17 */
+.CAN_Details_mobilelabel_17 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_21 */
+.CAN_Details_mobilegridcell_21 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_21 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* Name */
+.CAN_Details_Name {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_22 */
+.CAN_Details_mobilegridcell_22 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_22 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_35 */
+.CAN_Details_mobilelabel_35 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_23 */
+.CAN_Details_mobilegridcell_23 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_23 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* Phone */
+.CAN_Details_Phone {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_24 */
+.CAN_Details_mobilegridcell_24 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_24 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* CAN_Number */
+.CAN_Details_CAN_Number {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_25 */
+.CAN_Details_mobilegridcell_25 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_25 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* Can_number_INPUT */
+.CAN_Details_Can_number_INPUT {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_26 */
+.CAN_Details_mobilegridcell_26 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_26 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_41 */
+.CAN_Details_mobilelabel_41 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_27 */
+.CAN_Details_mobilegridcell_27 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_27 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* CAN_Address */
+.CAN_Details_CAN_Address {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_28 */
+.CAN_Details_mobilegridcell_28 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_28 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_43 */
+.CAN_Details_mobilelabel_43 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_29 */
+.CAN_Details_mobilegridcell_29 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_29 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* Lat */
+.CAN_Details_Lat {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_30 */
+.CAN_Details_mobilegridcell_30 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_30 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_45 */
+.CAN_Details_mobilelabel_45 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_31 */
+.CAN_Details_mobilegridcell_31 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_31 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* Long */
+.CAN_Details_Long {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_32 */
+.CAN_Details_mobilegridcell_32 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_32 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_57 */
+.CAN_Details_mobilelabel_57 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_33 */
+.CAN_Details_mobilegridcell_33 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_33 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* Payment */
+.CAN_Details_Payment {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_47 */
+.CAN_Details_mobilegridcell_47 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_47 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_58 */
+.CAN_Details_mobilelabel_58 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_48 */
+.CAN_Details_mobilegridcell_48 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_48 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* Greviences */
+.CAN_Details_Greviences {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_49 */
+.CAN_Details_mobilegridcell_49 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_49 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_59 */
+.CAN_Details_mobilelabel_59 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_50 */
+.CAN_Details_mobilegridcell_50 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_50 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* nearest_Greviences */
+.CAN_Details_nearest_Greviences {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_51 */
+.CAN_Details_mobilegridcell_51 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_51 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_60 */
+.CAN_Details_mobilelabel_60 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_52 */
+.CAN_Details_mobilegridcell_52 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_52 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* CAN_Status */
+.CAN_Details_CAN_Status {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_53 */
+.CAN_Details_mobilegridcell_53 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_53 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_62 */
+.CAN_Details_mobilelabel_62 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_54 */
+.CAN_Details_mobilegridcell_54 {
+	height:30px !important;
+	width:125px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Details_mobilegridcell_54 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* Building_Photos */
+.CAN_Details_Building_Photos {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilelistitembutton_12 */
+.CAN_Details_mobilelistitembutton_12 {
+
+}
+/* mobilelink_72 */
+.CAN_Details_mobilelink_72 {
+	margin: 4px 0px 4px 0px;
+	display: block;
+	vertical-align: middle;
+	padding: 2px;
+	cursor: pointer;
+}
+.CAN_Details_mobilelink_72_link_wrapper > .CAN_Details_mobilelink_72,
+.CAN_Details_mobilelink_72_link_wrapper > .CAN_Details_mobilelink_72:hover,
+.CAN_Details_mobilelink_72_link_wrapper > .CAN_Details_mobilelink_72:active,
+.CAN_Details_mobilelink_72_link_wrapper > .CAN_Details_mobilelink_72:visited {
+	text-decoration: none; font-weight: normal; color: #0a0a0a; text-align: center; font-family: Georgia; font-size: 16px;
+}
+/* googlemap_94 */
+.CAN_Details_googlemap_94 {
+	width: 320px; height: 200px;
+	margin: 4px 0px 4px 0px;
+}
+/* marker_95 */
+.CAN_Details_marker_95 {
+	text-shadow:none;
+	color:black;
+	font-family:Arial;
+}
+/* spacer_11 */
+.CAN_Details_spacer_11 {
+	width: 260px; height: 34px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobileworkarea_10*/
+.CAN_Details_mobileworkarea_10 {
+	background-color: transparent;
+	padding: 0px;
+}
+/* mobilefooter */
+.CAN_Details_mobilefooter {
+	min-height:38px;
+}
+/* panel_2 */
+.CAN_Details_panel_2 .ui-panel-inner {
+	padding: 15px 15px 15px 15px;
+}
+.CAN_Details_panel_2:focus {
+	outline: 0;
+}
+/* mobileimage_3 */
+.CAN_Details_mobileimage_3 {
+	margin: 4px 0px 4px 0px;
+	width: 240px; height: 170px;
+	display: block;
+}
+/* spacer_4 */
+.CAN_Details_spacer_4 {
+	width: 241px; height: 22px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilebutton_5 */
+#CAN_Details_mobilebutton_5 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_5 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_6 */
+#CAN_Details_mobilebutton_6 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_6 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_8 */
+#CAN_Details_mobilebutton_8 {
+
+}
+.ui-btn.CAN_Details_mobilebutton_8 {
+	margin: 4px 5px 4px 5px;
+}

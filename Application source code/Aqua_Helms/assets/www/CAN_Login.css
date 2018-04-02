@@ -1,0 +1,127 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("files/resources/lib/jquerymobile/1.4.4/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilebutton_9 */
+#CAN_Login_mobilebutton_9 {
+
+}
+.ui-btn.CAN_Login_mobilebutton_9 {
+
+}
+/* mobilecontainer */
+.ui-content.CAN_Login_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobileworkarea_7*/
+.CAN_Login_mobileworkarea_7 {
+	background-color: transparent;
+	padding: 0px;
+}
+/* spacer_11 */
+.CAN_Login_spacer_11 {
+	width: 260px; height: 326px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobiletextinput_10 */
+.CAN_Login_mobiletextinput_10 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilegrid_13 */
+.CAN_Login_mobilegrid_13 {
+	height: auto;
+	width:100%;
+	margin: 4px 0px 4px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.CAN_Login_mobilegrid_13_wrapper {
+
+}
+.CAN_Login_mobilegrid_13 > tr > td {
+	vertical-align: top;
+}
+.CAN_Login_mobilegrid_13_row_0, .CAN_Login_mobilegrid_13_row_0 > td {
+	height: 30px
+}
+/* mobilegridcell_14 */
+.CAN_Login_mobilegridcell_14 {
+	height:30px !important;
+	width:176px;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Login_mobilegridcell_14 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilegridcell_15 */
+.CAN_Login_mobilegridcell_15 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.CAN_Login_mobilegridcell_15 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilebutton_12 */
+#CAN_Login_mobilebutton_12 {
+
+}
+.ui-btn.CAN_Login_mobilebutton_12 {
+	margin: 4px 5px 4px 5px;
+}
+/* spacer_11 */
+.CAN_Login_spacer_11 {
+	width: 260px; height: 34px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobileworkarea_10*/
+.CAN_Login_mobileworkarea_10 {
+	background-color: transparent;
+	padding: 0px;
+}
+/* mobilefooter */
+.CAN_Login_mobilefooter {
+	min-height:38px;
+}
+/* panel_2 */
+.CAN_Login_panel_2 .ui-panel-inner {
+	padding: 15px 15px 15px 15px;
+}
+.CAN_Login_panel_2:focus {
+	outline: 0;
+}
+/* mobileimage_3 */
+.CAN_Login_mobileimage_3 {
+	margin: 4px 0px 4px 0px;
+	width: 240px; height: 170px;
+	display: block;
+}
+/* spacer_4 */
+.CAN_Login_spacer_4 {
+	width: 241px; height: 22px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilebutton_5 */
+#CAN_Login_mobilebutton_5 {
+
+}
+.ui-btn.CAN_Login_mobilebutton_5 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_6 */
+#CAN_Login_mobilebutton_6 {
+
+}
+.ui-btn.CAN_Login_mobilebutton_6 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_8 */
+#CAN_Login_mobilebutton_8 {
+
+}
+.ui-btn.CAN_Login_mobilebutton_8 {
+	margin: 4px 5px 4px 5px;
+}

@@ -1,0 +1,13 @@
+.img
+{
+    background-image:url('http://wallpaperscraft.com/image/water_liquid_splash_90230_1920x1080.jpg');
+    object-fits: cover;
+}
+.img1
+{
+    background-image:url('https://image.ibb.co/kG5pjn/water_1080x1920_4k_5k_wallpaper_splash_glass_abstract_wallpaper_live_3757_1.jpg' );
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+     background-size: 100% 100%;
+}

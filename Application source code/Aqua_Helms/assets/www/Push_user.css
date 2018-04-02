@@ -1,0 +1,267 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("files/resources/lib/jquerymobile/1.4.4/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilebutton_9 */
+#Push_user_mobilebutton_9 {
+
+}
+.ui-btn.Push_user_mobilebutton_9 {
+
+}
+/* mobilecontainer */
+.ui-content.Push_user_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobileworkarea_7*/
+.Push_user_mobileworkarea_7 {
+	background-color: transparent;
+	padding: 0px;
+}
+/* mobilelabel_27 */
+.Push_user_mobilelabel_27 {
+	text-decoration: none; font-weight: bold; color: #5099cf; text-align: center; font-family: Helvetica; font-size: 20px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* spacer_16 */
+.Push_user_spacer_16 {
+	width: 260px; height: 8px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilelabel_28 */
+.Push_user_mobilelabel_28 {
+	text-decoration: none; font-weight: bold; color: #332d29; text-align: left; font-family: Georgia; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* username */
+.Push_user_username {
+	margin: 4px 0px 4px 0px;
+}
+/* spacer_17 */
+.Push_user_spacer_17 {
+	width: 260px; height: 8px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilepopup_43 */
+.Push_user_mobilepopup_43 {
+
+}
+div.Push_user_mobilepopup_43 {
+	max-height: 100vh;
+	box-sizing: border-box;
+}
+div.Push_user_mobilepopup_43 .ui-popup-content-wrapper {
+	width:100%;
+	height:100%;
+	max-height: 99vh;
+	overflow:auto;
+	box-sizing: border-box;
+}
+/* mobiletextarea_44 */
+.Push_user_mobiletextarea_44 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilelabel_29 */
+.Push_user_mobilelabel_29 {
+	text-decoration: none; font-weight: bold; color: #332d29; text-align: left; font-family: Georgia; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* phonenumber */
+.Push_user_phonenumber {
+	margin: 4px 0px 4px 0px;
+}
+/* spacer_18 */
+.Push_user_spacer_18 {
+	width: 260px; height: 8px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilelabel_30 */
+.Push_user_mobilelabel_30 {
+	text-decoration: none; font-weight: bold; color: #332d29; text-align: left; font-family: Georgia; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* adress */
+.Push_user_adress {
+	margin: 4px 0px 4px 0px;
+}
+/* spacer_19 */
+.Push_user_spacer_19 {
+	width: 260px; height: 8px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilelabel_31 */
+.Push_user_mobilelabel_31 {
+	text-decoration: none; font-weight: bold; color: #332d29; text-align: left; font-family: Georgia; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* lati */
+.Push_user_lati {
+	margin: 4px 0px 4px 0px;
+}
+/* spacer_20 */
+.Push_user_spacer_20 {
+	width: 260px; height: 8px;
+	margin: 4px 0px 4px 0px;
+}
+/* canna */
+.Push_user_canna {
+	text-decoration: none; font-weight: bold; font-style: italic; text-align: left; font-family: Georgia; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* CanNumber */
+.Push_user_CanNumber {
+	margin: 4px 0px 4px 0px;
+}
+/* spacer_40 */
+.Push_user_spacer_40 {
+	width: 260px; height: 22px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilelabel_32 */
+.Push_user_mobilelabel_32 {
+	text-decoration: none; font-weight: bold; color: #332d29; text-align: left; font-family: Georgia; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* long */
+.Push_user_long {
+	margin: 4px 0px 4px 0px;
+}
+/* spacer_21 */
+.Push_user_spacer_21 {
+	width: 260px; height: 8px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilelabel_41 */
+.Push_user_mobilelabel_41 {
+	text-decoration: none; font-weight: bold; font-style: italic; text-align: left; font-family: Georgia; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* Queryinput */
+.Push_user_Queryinput {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilelabel_15 */
+.Push_user_mobilelabel_15 {
+	text-decoration: none; font-weight: bold; color: #332d29; text-align: left; font-family: Georgia; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* img */
+.Push_user_img {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilegrid_34 */
+.Push_user_mobilegrid_34 {
+	height: auto;
+	width:100%;
+	margin: 4px 0px 4px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.Push_user_mobilegrid_34_wrapper {
+
+}
+.Push_user_mobilegrid_34 > tr > td {
+	vertical-align: top;
+}
+.Push_user_mobilegrid_34_row_0, .Push_user_mobilegrid_34_row_0 > td {
+	height: 30px
+}
+/* mobilegridcell_35 */
+.Push_user_mobilegridcell_35 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.Push_user_mobilegridcell_35 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilegridcell_36 */
+.Push_user_mobilegridcell_36 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.Push_user_mobilegridcell_36 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilebutton_33 */
+#Push_user_mobilebutton_33 {
+
+}
+.ui-btn.Push_user_mobilebutton_33 {
+	margin: 4px 5px 4px 5px;
+}
+/* spacer_11 */
+.Push_user_spacer_11 {
+	width: 260px; height: 34px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobileworkarea_10*/
+.Push_user_mobileworkarea_10 {
+	background-color: transparent;
+	padding: 0px;
+}
+/* mobilefooter */
+.Push_user_mobilefooter {
+	min-height:38px;
+}
+/* panel_2 */
+.Push_user_panel_2 .ui-panel-inner {
+	padding: 15px 15px 15px 15px;
+}
+.Push_user_panel_2:focus {
+	outline: 0;
+}
+/* mobileimage_3 */
+.Push_user_mobileimage_3 {
+	margin: 4px 0px 4px 0px;
+	width: 240px; height: 170px;
+	display: block;
+}
+/* spacer_4 */
+.Push_user_spacer_4 {
+	width: 241px; height: 22px;
+	margin: 4px 0px 4px 0px;
+}
+/* mobilebutton_5 */
+#Push_user_mobilebutton_5 {
+
+}
+.ui-btn.Push_user_mobilebutton_5 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_6 */
+#Push_user_mobilebutton_6 {
+
+}
+.ui-btn.Push_user_mobilebutton_6 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_8 */
+#Push_user_mobilebutton_8 {
+
+}
+.ui-btn.Push_user_mobilebutton_8 {
+	margin: 4px 5px 4px 5px;
+}

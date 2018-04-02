@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>
+            mainPage
+        </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="msapplication-tap-highlight" content="no">
+        <!-- Enable all requests, inline styles, and eval() -->
+        <meta http-equiv="Content-Security-Policy" content="default-src * gap://ready data:; style-src 'self' 'unsafe-inline' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *">
+        <link href="files/resources/lib/theme/jqm/jqm.css" rel="stylesheet" />
+        <link href="files/resources/lib/theme/flat-ui/flat-ui.css" rel="stylesheet" />
+        <link href="files/resources/lib/jquerymobile/1.4.4/jquery.mobile.structure-1.4.4.css"
+        rel="stylesheet" />
+        <link type="text/css" rel="stylesheet" href="files/views/assets/css/CSS1.css" />
+        <script type="text/javascript" src="files/resources/lib/underscore/underscore.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/store/json2.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/jquery/jquery-2.1.1.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/jquery/jquery-ajaxTransport.js">
+        </script>
+        <script type="text/javascript">
+                    $(document).bind("mobileinit", function()
+            {
+                if (navigator.userAgent.toLowerCase().indexOf("android") != -1)
+                {
+                    $.mobile.defaultPageTransition = 'none';
+                    $.mobile.defaultDialogTransition = 'none';
+                }
+                else if (navigator.userAgent.toLowerCase().indexOf("msie") != -1)
+                {
+                    $.mobile.allowCrossDomainPages = true;
+                    $.support.cors = true;
+                }
+                else if (navigator.userAgent.match(/(iPad|iPhone|iPod)/g))
+                {
+                    $.mobile.hashListeningEnabled = false;
+                }
+            });
+        </script>
+        <script type="text/javascript" src="files/resources/lib/jquerymobile/1.4.4/jquery.mobile-1.4.4.js">
+        </script>
+        <script type="text/javascript" src="files/resources/js/mobilebase.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/event/customEventHandler.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/sha1.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/oauth.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/contexts.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/jquery.xml2json.min.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/q/q.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/EventEmitter.js/EventEmitter.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/tv4/tv4.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/localforage/dist/localforage.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/localforage/plugins/localforage-setitems/localforage-setitems.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/localforage/plugins/localforage-find/localforage-find.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/crypto-js-md5/crypto-js-md5.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/moment/moment.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/underscore-query/underscore-query.min.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/offline/offline.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/ms_sdk_bundle/client-sdk.js">
+        </script>
+        <script type="text/javascript" src="https://maps.google.com/maps/api/js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/jquery-ui-map/jquery.ui.map.full.min.js">
+        </script>
+        <link href="files/resources/lib/exadel-carousel/jquery.mobile.carousel.css" rel="stylesheet"
+        type="text/css" />
+        <script type="text/javascript" src="files/resources/lib/exadel-carousel/carousel.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/appery.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/component-manager.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/mapping-impl.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/entity-api.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/login.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/storage-api.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/get_target_platform.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/cordova.js">
+        </script>
+        <link href="files/resources/css/mobilebase.css" rel="stylesheet" type="text/css"
+        />
+        <script type="text/javascript" src="files/views/assets/js/services/model.js">
+        </script>
+        <script type="text/javascript" src="files/views/assets/js/services/service.js">
+        </script>
+        <script type="text/javascript" src="files/resources/lib/base/databaseUtils.js">
+        </script>
+    </head>
+    
+    <body>
+        <script language="JavaScript" type="text/javascript">
+                        $("body").bind("swipeleft", function(e)
+                {
+                    e.preventDefault();
+                });
+                $("body").bind("swiperight", function(e)
+                {
+                    e.preventDefault();
+                });
+        </script>
+        <div data-role="page" style="min-height:480px;" dsid="mainPage" id="mainPage" class="type-interior"
+        data-theme="f">
+            <!-- mobileheader -->
+            <div data-role="header" data-position="fixed" data-add-back-btn="false" data-back-btn-text="Back"
+            data-theme="f" name="mobileheader" id="mainPage_mobileheader" class="mainPage_mobileheader">
+                <h1 dsid="mobileheader">
+                    Aqua Aide
+                </h1>
+                <!-- mobilebutton_9 --><!--
+                --><a data-role="button" name="mobilebutton_9" dsid="mobilebutton_9" class="mainPage_mobilebutton_9 ui-btn-left"
+                style='min-height:16px; ' id="mainPage_mobilebutton_9" data-corners="true" data-icon="bars"
+                data-iconpos="left" x-apple-data-detectors="false" data-inline='true' data-mini='true'
+                data-theme="f" tabindex="4">
+                &nbsp;
+                </a>
+            </div>
+            <!-- mobilecontainer -->
+            <div data-role="content" id="mainPage_mobilecontainer" name="mobilecontainer" class="img1  mainPage_mobilecontainer ui-content"
+            dsid="mobilecontainer" data-theme="f">
+                <link href="mainPage.css" rel="stylesheet" type="text/css" />
+                <script type="text/javascript" src="mainPage.js">
+                </script>
+                <!-- mobileworkarea_7 -->
+                <div class="mainPage_mobileworkarea_7 mainPage_mobileworkarea_7">
+                    <!-- spacer_14 -->
+                    <div id="mainPage_spacer_14" data-role="appery_spacer" dsid="spacer_14" class='mobilespacer mainPage_spacer_14'>
+                    </div>
+                    <!-- mobileimage_12 -->
+                    <img class="mainPage_mobileimage_12" src="files/views/assets/image/waterlogo.jpg"
+                    id="mainPage_mobileimage_12" dsid="mobileimage_12" name="mobileimage_12" />
+                    <!-- spacer_13 -->
+                    <div id="mainPage_spacer_13" data-role="appery_spacer" dsid="spacer_13" class='mobilespacer mainPage_spacer_13'>
+                    </div>
+                    <!-- mobilebutton_10 --><!--
+                    --><a data-role="button" name="mobilebutton_10" dsid="mobilebutton_10" class="mainPage_mobilebutton_10"
+                    id="mainPage_mobilebutton_10" data-corners="true" data-icon="none" data-iconpos='nowhere'
+                    x-apple-data-detectors="false" data-mini="false" data-theme="f" tabindex="4">
+                    CAN Login
+                    </a><!--
+                    --><!-- spacer_15 -->
+                    <div id="mainPage_spacer_15" data-role="appery_spacer" dsid="spacer_15" class='mobilespacer mainPage_spacer_15'>
+                    </div>
+                    <!-- mobilebutton_11 --><!--
+                    --><a data-role="button" name="mobilebutton_11" dsid="mobilebutton_11" class="img  mainPage_mobilebutton_11"
+                    id="mainPage_mobilebutton_11" data-corners="true" data-icon="navigation" data-iconpos="left"
+                    x-apple-data-detectors="false" data-mini="false" data-theme="f" tabindex="5">
+                    Get Started&gt;&gt;
+                    </a><!--
+                    --><!-- spacer_16 -->
+                    <div id="mainPage_spacer_16" data-role="appery_spacer" dsid="spacer_16" class='mobilespacer mainPage_spacer_16'>
+                    </div>
+                </div>
+                <!-- spacer_11 -->
+                <div id="mainPage_spacer_11" data-role="appery_spacer" dsid="spacer_11" class='mobilespacer mainPage_spacer_11'>
+                </div>
+                <!-- mobileworkarea_10 -->
+                <div class="mainPage_mobileworkarea_10 mainPage_mobileworkarea_10">
+                    <!-- spacer_17 -->
+                    <div id="mainPage_spacer_17" data-role="appery_spacer" dsid="spacer_17" class='mobilespacer mainPage_spacer_17'>
+                    </div>
+                    <!-- mobilecarousel_18 -->
+                    <div id="mainPage_mobilecarousel_18" name="mobilecarousel_18" dsid="mobilecarousel_18"
+                    data-role="__carousel" tiggzitype="object" apperytype="object" apperyclass="carousel"
+                    tiggziclass="carousel" class="mainPage_mobilecarousel_18" style="">
+                        <div class="ui-carousel-items">
+                            <div class="ui-left-arrow">
+                            </div>
+                            <div class="ui-right-arrow">
+                            </div>
+                            <div data-role="appery_carouselitem" id="mainPage_mobilecarouselitem_19" name="mobilecarouselitem_19"
+                            dsid="mobilecarouselitem_19" data-type="image" data-title="" data-image-url="http://employment.telangana.gov.in/HomePage/images/logo.PNG"
+                            class="mainPage_mobilecarouselitem_19" style="">
+                            </div>
+                            <div data-role="appery_carouselitem" id="mainPage_mobilecarouselitem_20" name="mobilecarouselitem_20"
+                            dsid="mobilecarouselitem_20" data-type="image" data-title="" data-image-url="data:image/jpeg;base64,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"
+                            class="mainPage_mobilecarouselitem_20" style="">
+                            </div>
+                            <div data-role="appery_carouselitem" id="mainPage_mobilecarouselitem_21" name="mobilecarouselitem_21"
+                            dsid="mobilecarouselitem_21" data-type="image" data-title="" data-image-url="data:image/jpeg;base64,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"
+                            class="mainPage_mobilecarouselitem_21" style="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- panel_2 -->
+            <div data-role="panel" tabindex="-1" data-position="left" data-display="overlay"
+            id="mainPage_panel_2" class="img  mainPage_panel_2" name="panel_2" dsid="panel_2"
+            data-theme="f">
+                <!-- mobileimage_3 -->
+                <img class="mainPage_mobileimage_3" src="files/views/assets/image/aquafornia.png"
+                id="mainPage_mobileimage_3" dsid="mobileimage_3" name="mobileimage_3" />
+                <!-- spacer_4 -->
+                <div id="mainPage_spacer_4" data-role="appery_spacer" dsid="spacer_4" class='mobilespacer mainPage_spacer_4'>
+                </div>
+                <!-- mobilebutton_5 --><!--
+                --><a data-role="button" name="mobilebutton_5" dsid="mobilebutton_5" class="mainPage_mobilebutton_5"
+                id="mainPage_mobilebutton_5" data-corners="true" data-icon="none" data-iconpos='nowhere'
+                x-apple-data-detectors="false" data-mini="false" data-theme="f" tabindex="1">
+                Main Page
+                </a><!--
+                --><!-- mobilebutton_6 --><!--
+                --><a data-role="button" name="mobilebutton_6" dsid="mobilebutton_6" class="mainPage_mobilebutton_6"
+                id="mainPage_mobilebutton_6" data-corners="true" data-icon="none" data-iconpos='nowhere'
+                x-apple-data-detectors="false" data-mini="false" data-theme="f" tabindex="2">
+                Add Customer
+                </a><!--
+                --><!-- mobilebutton_8 --><!--
+                --><a data-role="button" name="mobilebutton_8" dsid="mobilebutton_8" class="mainPage_mobilebutton_8"
+                id="mainPage_mobilebutton_8" data-corners="true" data-icon="none" data-iconpos='nowhere'
+                x-apple-data-detectors="false" data-mini="false" data-theme="f" tabindex="3">
+                Navigation
+                </a>
+            </div>
+        </div>
+    </body>
+
+</html>
